@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Postcode Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_button">Find</string>
+    <string name="search_postcode_hint">W14 8EZ</string>
+    <string name="title_activity_result">Postcode list</string>
+
+	<array name="static_list">
+		<item>London</item>
+		<item>Paris</item>
+		<item>Dhaka</item>
+	</array>
+</resources>
